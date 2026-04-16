@@ -1,4 +1,4 @@
-# Rohit Kashinath Pawar - Professional Portfolio Website
+# Rohit Pawar - Professional Portfolio Website
 
 A modern, responsive, and professional portfolio website built with HTML, CSS, and JavaScript.
 
